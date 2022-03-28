@@ -4,7 +4,7 @@ This is a python rewrite of PoeTexureResizer.
 
 ## Setup
 1. Install [ImageMagick-7.1.0](https://imagemagick.org/script/download.php#windows).
-1. Download and unzip PoeBooster.
+1. Download and unzip [PoeBooster](https://github.com/alanx15a2/PoeBooster/releases).
 
 ## Usage
 1. Run **start.bat**. *(or main.py)*
