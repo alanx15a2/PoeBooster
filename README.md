@@ -7,7 +7,7 @@ This is a python rewrite of PoeTexureResizer.
 1. Download and unzip [PoeBooster](https://github.com/alanx15a2/PoeBooster/releases).
 
 ## Usage
-1. Run **start.bat**. *(or main.py)*
+1. Run **PoeBooster.exe**. *(or main.py)*
 1. Specific sorce path. *(SSD recommended) (export from ggpk using LibGGPK2)*
 1. Specific an empty folder for destination path. *(SSD recommended)*
 1. Specific how many cpu threads should use.
