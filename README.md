@@ -17,8 +17,8 @@ This is a python rewrite of PoeTexureResizer.
 ## What files should I compress?
 1. Using [LibGGPK2](https://github.com/aianlinb/LibGGPK2).
 1. Use ```.dds$``` as regex filter. (to save times)
-1. Right click on Root/Bundles2/Art and select **Export**.
-1. Delete Art/2DArt, Art/2Ditems, Art/Textures/Cinematic, Art/Textures/DetailMaps, Art/Textures/Interface, Art/Textures/masks in the folder.
+1. Right click on ```Root/Bundles2/Art``` and select **Export**.
+1. Delete ```Art/2DArt```, ```Art/2Ditems```, ```Art/Textures/Cinematic```, ```Art/Textures/DetailMaps```, ```Art/Textures/Interface```, ```Art/Textures/masks``` in the folder.
 
 ## What should I do after finish compress?
 1. Using [LibGGPK2](https://github.com/aianlinb/LibGGPK2).
