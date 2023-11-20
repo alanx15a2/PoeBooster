@@ -2,6 +2,9 @@
 Compress .dds file in ggpk to boost fps.
 This is a python rewrite of PoeTexureResizer.
 
+## Document
+1. [繁體中文](https://github.com/alanx15a2/PoeBooster/blob/main/README.zh-tw.md).
+
 ## Setup
 1. Install [ImageMagick-7.1.0](https://imagemagick.org/script/download.php#windows) or [download](https://github.com/alanx15a2/PoeBooster/releases/download/v0.1.3/ImageMagick-7.1.0-46-Q16-x64-dll.exe) directly.
 1. Download and unzip [PoeBooster](https://github.com/alanx15a2/PoeBooster/releases).
