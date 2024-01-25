@@ -32,3 +32,7 @@
 ## 開發環境
 1. python 3.9
 2. ImageMagick-7.1.0
+
+## 問題回報
+
+請至[issues](https://github.com/alanx15a2/PoeBooster/issues)頁面，右上角點擊 new issue
